@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<html>
+<head>
+    <title>NTK2024 - Bat Signal</title>
+    <link href="batsignal.css" rel="stylesheet" />
+    <style>
+        .ntk-logo {
+            position: absolute;
+            bottom: 5px;
+            right: 10px;
+            height: 10%;
+            width: auto;
+            z-index:999999;
+        }
+    </style>
+</head>
+<body>
+<img src="ntk.svg" class="ntk-logo" alt="NTK 2024">
+
+<div class="sky">
+    <div class="moon"></div>
+</div>
+
+<div class="skyline"></div>
+
+<div id="light" class="light light-off">
+    <!--
+    Batman logo by Stephen Greig:
+    http://tangledindesign.com/famous-logos-in-css3-the-dark-knight/
+    -->
+    <div id="batman-logo">
+        <div id="left-white"></div>
+        <div id="right-white"></div>
+        <div id="top-white"></div>
+    </div>
+
+</div>
+
+<div class="skyline"></div>
+
+<div class="batman">
+    <div class="head">
+        <div class="ears">
+            <span></span>
+            <span></span>
+        </div>
+        <div class="nose"></div>
+        <div class="mouth"></div>
+    </div>
+    <div class="body">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="leg">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="leg">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <div class="foot"></div>
+    <div class="foot"></div>
+    <div class="cape">
+        <div class="cape-shape"></div>
+    </div>
+    <div class="watchtower">
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.7/signalr.min.js" integrity="sha512-7SRCYIJtR6F8ocwW7UxW6wGKqbSyqREDbfCORCbGLatU0iugBLwyOXpzhkPyHIFdBO0K2VCu57fvP2Twgx1o2A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="batHub.js"></script>
+
+</body>
+</html>

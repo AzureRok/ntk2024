@@ -1,0 +1,16 @@
+Demo 3
+what is the date today?
+what year is it?
+how old is Barbara?
+
+Demo 4
+what did you have for breakfast?
+
+Demo 5
+what is 'NT Konferenca'?
+when is 'NT Konferenca' this year?
+
+Demo 6
+what is the sate of bat signal?
+can you turn bat signal on?
+turn it off

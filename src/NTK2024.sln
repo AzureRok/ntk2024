@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTK2024.BatmanAI", "NTK2024.BatmanAI\NTK2024.BatmanAI.csproj", "{DB88BB5C-B64A-4178-92BB-B408EBC5C67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTK2024.BatSignalAPI", "NTK2024.BatSignalAPI\NTK2024.BatSignalAPI.csproj", "{A5CF9EA0-A711-43CC-BB1F-F1B040D4035E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB88BB5C-B64A-4178-92BB-B408EBC5C67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB88BB5C-B64A-4178-92BB-B408EBC5C67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB88BB5C-B64A-4178-92BB-B408EBC5C67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB88BB5C-B64A-4178-92BB-B408EBC5C67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CF9EA0-A711-43CC-BB1F-F1B040D4035E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CF9EA0-A711-43CC-BB1F-F1B040D4035E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CF9EA0-A711-43CC-BB1F-F1B040D4035E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CF9EA0-A711-43CC-BB1F-F1B040D4035E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5FC9F5-C91C-4BE4-86EA-10864E9C4A65}
+	EndGlobalSection
+EndGlobal
